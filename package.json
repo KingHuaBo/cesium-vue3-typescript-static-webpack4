@@ -1,0 +1,29 @@
+{
+  "name": "cesium-vue3-typescript-static-webpack4",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "path": "^0.12.7",
+    "vue": "^3.0.0",
+    "vue-class-component": "^8.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.17",
+    "@vue/cli-plugin-typescript": "~4.5.17",
+    "@vue/cli-service": "~4.5.17",
+    "@vue/compiler-sfc": "^3.0.0",
+    "typescript": "~4.1.5",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
